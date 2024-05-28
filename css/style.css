@@ -27,3 +27,10 @@ body{
 	display: flex;
 	flex-direction: column;
 }
+.calculator {
+	text-align: center;
+}
+
+input {
+	border: 1px solid;
+}

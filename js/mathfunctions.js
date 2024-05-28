@@ -9,11 +9,11 @@ function subtraction (a, b) {
 }
 
 function multiplication (a, b) {
-    let multiplication = a - b;
+    let multiplication = a * b;
     return multiplication; 
 }
 
 function division (a, b) {
-    let division = a - b;
+    let division = a / b;
     return division; 
 }
